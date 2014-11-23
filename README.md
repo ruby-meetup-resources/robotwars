@@ -61,4 +61,4 @@ http://rubyforge.org/forum/?group_id=1109
                         
 ## Here's what a battle looks like
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/GceXQZiKQig" frameborder="0" allowfullscreen></iframe>
+[![Robotwars](http://img.youtube.com/vi/GceXQZiKQig/0.jpg)](http://www.youtube.com/watch?v=GceXQZiKQig)
