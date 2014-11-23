@@ -58,3 +58,7 @@ http://rubyforge.org/forum/?group_id=1109
     say(msg)            #shows msg above the robot on screen
     broadcast(msg)      #broadcasts msg to all bots (they receive 'broadcasts'
                         #events with the msg and rough direction)
+                        
+## Here's what a battle looks like
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/GceXQZiKQig" frameborder="0" allowfullscreen></iframe>
