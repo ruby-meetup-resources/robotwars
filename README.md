@@ -63,8 +63,4 @@ http://rubyforge.org/forum/?group_id=1109
 
 [![Robotwars](http://img.youtube.com/vi/GceXQZiKQig/0.jpg)](http://www.youtube.com/watch?v=GceXQZiKQig)
 
-## Thanks
 
-If you want to say thanks to the contributors.. just click the image below ;)
-
-[![Thank the developer](https://raw.githubusercontent.com/thankadeveloper/thankadeveloper/master/app/assets/images/badge.png)](http:/thankadeveloper.org?repo=ruby-meetup-resources/robotwars)
